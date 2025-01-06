@@ -1,2 +1,2 @@
 venue,address,country,latitude,longitude,humandate,humantime,startdate,enddate,instructor,helper,carpentry,curriculum,title,slug,flavor
-Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566998,4.9569812,"January 28 - 29, 2025",9:30 - 17:00 CET,2025-01-27T23:00:00Z,2025-01-28T23:00:00Z,"Sven van der Burg, Carsten Schnober, Maurice de Kleijn",,ds,ds-dl-intro,Introduction to Deep Learning,2025-01-28-ds-dl-intro,NA
+Netherlands eScience Center,"Science Park 402, 1098 XH Amsterdam",NA,52.3566998,4.9569812,"January 28 - 29, 2025",9:30 - 17:00 CET,2025-01-27T23:00:00Z,2025-01-28T23:00:00Z,"Sven van der Burg, Carsten Schnober","Maurice de Kleijn, Laura Ootes",ds,ds-dl-intro,Introduction to Deep Learning,2025-01-28-ds-dl-intro,NA
